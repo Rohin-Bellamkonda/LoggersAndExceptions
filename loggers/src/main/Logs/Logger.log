@@ -1,0 +1,33 @@
+2020-03-17 10:58:22 DEBUG App:41 - 
+1 opion one to claculate Interest
+2 option to calculate the cost for buliding a buliding
+3 option to exit
+
+2020-03-17 10:58:22 DEBUG App:42 - Enter option 
+2020-03-17 10:58:30 DEBUG App:12 - enter principal amount 
+2020-03-17 10:58:32 DEBUG App:14 - enter time period 
+2020-03-17 10:58:33 DEBUG App:16 - Enter rate of interest 
+2020-03-17 10:58:34 DEBUG App:19 - 
+option 1- calculate simple interest
+Option 2- Calculates the compound interest
+Enter option 
+2020-03-17 10:58:37 DEBUG App:25 - Compound Interest is Rupees 105.00
+2020-03-17 10:58:37 DEBUG App:41 - 
+1 opion one to claculate Interest
+2 option to calculate the cost for buliding a buliding
+3 option to exit
+
+2020-03-17 10:58:37 DEBUG App:42 - Enter option 
+2020-03-17 10:58:42 DEBUG App:29 - • Option 1-standard materials
+• Option 2-use above standard materials
+• Option 3-high standard material
+• Option 4-high standard material and fully automated home
+ Enter the type material requried for type of constuction of buliding 
+2020-03-17 10:58:44 DEBUG App:31 - Enter the area of the land to estimate the cost of buliding 
+2020-03-17 10:58:47 DEBUG App:34 - Cost for construction of buliding is Rupees 360000.00
+2020-03-17 10:58:47 DEBUG App:41 - 
+1 opion one to claculate Interest
+2 option to calculate the cost for buliding a buliding
+3 option to exit
+
+2020-03-17 10:58:47 DEBUG App:42 - Enter option 
